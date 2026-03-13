@@ -1,0 +1,5 @@
+export const mockFeeds = [
+  { id: 1, author: 'University Admin', role: 'admin', category: 'Announcements', avatar: 'https://picsum.photos/seed/admin/100/100', title: 'Tech Fest 2024 Announced!', description: 'Join us for the biggest technology festival of the year. Registrations open now.', timestamp: '2 hours ago', likes: 245, comments: 42, image: 'https://picsum.photos/seed/techfest/400/200' },
+  { id: 2, author: 'Dr. Smith', role: 'teacher', category: 'Academic', avatar: 'https://picsum.photos/seed/smith/100/100', title: 'Data Structures Assignment Extended', description: 'The deadline for Assignment 3 has been extended to Friday. Please submit on time.', timestamp: '5 hours ago', likes: 120, comments: 15 },
+  { id: 3, author: 'Sarah Connor', role: 'student', category: 'General', avatar: 'https://picsum.photos/seed/sarah/100/100', title: 'Won 1st Prize in Hackathon', description: 'Super excited to share that our team won the first prize at the National Hackathon!', timestamp: '1 day ago', likes: 530, comments: 89, image: 'https://picsum.photos/seed/hackathon/400/200' },
+];
